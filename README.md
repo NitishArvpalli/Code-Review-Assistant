@@ -37,8 +37,11 @@ It allows users to upload source code files and automatically generates a review
 ```bash
 pip install -r requirements.txt
 uvicorn main:app --reload
+
+```
+```bash
 ### Frontend
 cd frontend
 npm install
 npm start
-
+```
