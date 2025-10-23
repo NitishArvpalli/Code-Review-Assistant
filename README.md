@@ -39,8 +39,8 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 
 ```
-```bash
 ### Frontend
+```bash
 cd frontend
 npm install
 npm start
